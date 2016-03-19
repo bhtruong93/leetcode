@@ -1,1 +1,2 @@
-Collection of my leetcode solutions.
+Random algorithms,
+Day 7
